@@ -10,5 +10,7 @@ public class FIWithLambdaExpression {
 		Runnable r = () -> {
 			System.out.println("Runnable with Lambda Expression");
 		};
+		
+		Runnable r1 = () -> System.out.println("My Runnable");
 	}
 }
