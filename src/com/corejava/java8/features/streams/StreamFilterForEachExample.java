@@ -16,7 +16,7 @@ class Employee {
 public class StreamFilterForEachExample {
 	public static void main(String[] args) {
 
-		List<Employee> employeesList = new ArrayList<Employee>();  
+		List<Employee> employeesList = new ArrayList<>();  
 		
 		//Adding Employee  
 		employeesList.add(new Employee(101, "Pankaj"));  
