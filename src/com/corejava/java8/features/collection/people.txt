@@ -1,0 +1,8 @@
+Ronald 15 M
+Hermione 16 F
+Harry 15 M
+Ginnie 14 F
+Luna 15 F
+Lupin 42 M
+Sirius 40 M
+Tonks 35 F

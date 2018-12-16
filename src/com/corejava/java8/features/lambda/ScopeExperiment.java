@@ -8,6 +8,7 @@ public class ScopeExperiment {
 		System.out.println(new ScopeExperiment().scopeExperiment());
 	}
 
+	@SuppressWarnings("unused")
 	public String scopeExperiment() {
 
 		Experiment exp = new Experiment() {
